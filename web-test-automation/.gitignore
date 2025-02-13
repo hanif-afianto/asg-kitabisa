@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Reports & Test Output
+report/
+
+# Compiled TypeScript
+dist/
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store

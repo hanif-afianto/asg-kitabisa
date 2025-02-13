@@ -1,0 +1,22 @@
+{
+  "name": "web-test-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio run wdio.conf.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@applitools/eyes-webdriverio": "^5.56.0",
+    "@types/jasmine": "^5.1.5",
+    "@wdio/cli": "^9.5.5",
+    "@wdio/jasmine-framework": "^9.5.4",
+    "@wdio/local-runner": "^9.5.4",
+    "@wdio/spec-reporter": "^9.5.0",
+    "@wdio/visual-service": "^6.3.0",
+    "wdio-html-nice-reporter": "^8.1.7"
+  }
+}
